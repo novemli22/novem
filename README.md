@@ -15,4 +15,4 @@
 - LinkedIn: [linkedin.com/in/novemliola](#)  
 - GitHub: [github.com/novemliola](#)  
 
-![Novemli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novemliola&show_icons=true&theme=dark)
+![Novemli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novemli22&show_icons=true&theme=dark)
