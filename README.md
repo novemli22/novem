@@ -9,7 +9,7 @@
 - 🌱 Saat ini sedang belajar menjadi **Full-Stack Web Developer**  
 - 🚀 Fokus mendalami **Frontend** dan **Backend Development**  
 - 🎯 Target: Menguasai **React**, **Node.js**, dan **Database**  
-- 📫 Hubungi saya di: [LinkedIn](https://www.linkedin.com/in/novemli-ola-ban-b33501330/) | [Email](mailto:novemliolaban48@gmail.com)  
+- 📫 Hubungi saya di: [LinkedIn](https://www.linkedin.com/in/novem22/) | [Email](mailto:novemliolaban48@gmail.com)  
 
 ## 🚀 Tech Stack
 - 🌐 HTML | CSS | JavaScript  
